@@ -1,2 +1,2 @@
 # SVG-Animation
-Word animation (stroke-dasharray)
+Word animation using (stroke-dasharray)
